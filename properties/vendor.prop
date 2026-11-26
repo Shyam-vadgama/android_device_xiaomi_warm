@@ -247,6 +247,9 @@ persist.vendor.sensor.mischeck=true
 persist.vendor.sensors.enable.mag_filter=true
 persist.vendor.sensors.support_direct_channel=false
 
+# Shutdown
+sys.vendor.shutdown.waittime=500
+
 # SOC
 ro.soc.manufacturer=QTI
 

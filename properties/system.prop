@@ -15,3 +15,7 @@ telephony.lteOnCdmaDevice=1
 
 # Wi-Fi Display
 persist.debug.wfd.enable=1
+
+# Shutdown & Reboot
+ro.build.shutdown_timeout=5
+ro.build.shutdown.watchdog.timeout=6
